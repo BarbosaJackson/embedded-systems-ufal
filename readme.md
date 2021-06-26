@@ -8,5 +8,11 @@ The install follow the steps of the readme of [oficial repositore](https://githu
 
 > run the command `./renode [flag](optional) [file](optional)`
 
-![run_renode](screenshots/run_renode.png
-)
+![run_renode](screenshots/run_renode.png)
+
+# run first example 
+[read more](https://renode.readthedocs.io/en/latest/introduction/demo.html) about it.
+
+  1. run renode as seen before
+  2. on the renode terminal copy the command: s @scripts/single-node/stm32f4_discovery.resc
+![first_example](screenshots/run_first_example.png)
